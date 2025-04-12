@@ -18,3 +18,10 @@
 - **Estado:** Ciudad de México
 - **Colonia:** Roma Norte
 - **Municipio:** Cuauhtémoc
+
+## Educación
+
+| Institución          | Grado                             | Años       | Ubicación          |
+|----------------------|-----------------------------------|------------|--------------------|
+| IIMAS, UNAM          | Licenciatura en Ciencia de Datos  | 2021-2026  | Ciudad de México   |
+| Colegio Izapa        | Bachillerato                      | 2015-2018  | Tapachula          |

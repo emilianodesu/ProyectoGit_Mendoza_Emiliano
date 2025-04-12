@@ -25,3 +25,11 @@
 |----------------------|-----------------------------------|------------|--------------------|
 | IIMAS, UNAM          | Licenciatura en Ciencia de Datos  | 2021-2026  | Ciudad de México   |
 | Colegio Izapa        | Bachillerato                      | 2015-2018  | Tapachula          |
+
+## Mis lenguajes de programación favoritos
+
+- Python (⭐️⭐️⭐️⭐️⭐️)
+- R (⭐️⭐️⭐️⭐️☆)
+- Julia (⭐️⭐️⭐️⭐️☆)
+- Java (⭐️⭐️⭐️☆☆)
+- C++ (⭐️⭐️⭐️☆☆)

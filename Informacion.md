@@ -33,3 +33,10 @@
 - Julia (⭐️⭐️⭐️⭐️☆)
 - Java (⭐️⭐️⭐️☆☆)
 - C++ (⭐️⭐️⭐️☆☆)
+
+## Idiomas
+
+| Idioma    | Nivel escrito | Nivel hablado | Certificación |
+|-----------|---------------|---------------|---------------|
+| Español   | Nativo        | Nativo        | -             |
+| Inglés    | Avanzado      | Avanzado      | IELTS 7.0     |

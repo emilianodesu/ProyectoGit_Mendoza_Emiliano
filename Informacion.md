@@ -7,3 +7,14 @@
 - **Lugar de nacimiento:** Tapachula, Chiapas, México
 - **Correo electrónico:** [emilianodesu.py@gmail.com](mailto:emilianodesu.py@gmail.com)
 - **Teléfono:** +52 962 XXX XXXX
+
+## Dirección
+
+- **Calle:** Avenida Central
+- **Número:** 5
+- **Ciudad:** Ciudad de México
+- **Código postal:** 11111
+- **País:** México
+- **Estado:** Ciudad de México
+- **Colonia:** Roma Norte
+- **Municipio:** Cuauhtémoc

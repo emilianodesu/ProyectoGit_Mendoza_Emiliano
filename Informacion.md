@@ -40,3 +40,12 @@
 |-----------|---------------|---------------|---------------|
 | Español   | Nativo        | Nativo        | -             |
 | Inglés    | Avanzado      | Avanzado      | IELTS 7.0     |
+
+## Mis hobbies
+
+- Esuchar musica
+- Ponerme al dia con One Piece
+- Jugar videojuegos
+- Programar ;D
+
+![luffy](https://i.ytimg.com/vi/XP6TheIoBnI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDSR5v_QGbUUn_2slxhkNPKCbppng)

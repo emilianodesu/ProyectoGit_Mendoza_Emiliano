@@ -29,3 +29,9 @@
 - Lenguaje: Python
 - Materia: Paradigmas de Programación para la Ciencia de Datos
 - Descripción: Análisis predictivo de jugadores de la Premier League. Se utiliza un algoritmo de regresión lineal para predecir el rendimiento de los jugadores. Se utilizan diferentes métricas para evaluar el rendimiento de los jugadores y se implementa un modelo de regresión lineal para predecir el rendimiento de los jugadores en función de sus estadísticas.
+
+## FFT Paralela
+
+- Lenguaje: C
+- Materia: Estructura de Datos y Algoritmos II
+- Descripción: Implementación de la FFT (Fast Fourier Transform) en C. Se implementa una versión paralela de la FFT utilizando OpenMP para mejorar el rendimiento. Se comparan los resultados de la versión secuencial y la versión paralela para evaluar el rendimiento de la implementación.

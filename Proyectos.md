@@ -35,3 +35,9 @@
 - Lenguaje: C
 - Materia: Estructura de Datos y Algoritmos II
 - Descripción: Implementación de la FFT (Fast Fourier Transform) en C. Se implementa una versión paralela de la FFT utilizando OpenMP para mejorar el rendimiento. Se comparan los resultados de la versión secuencial y la versión paralela para evaluar el rendimiento de la implementación.
+
+## Despliegue de una Pagina Web en Django
+
+- Lenguaje: Python, HTML, CSS, JavaScript
+- Materia: Computación Paralela
+- Descripción: Despliegue de una página web en Django. Se implementa un frontend con HTML, CSS y JavaScript y se despliega en un servidor. Se utiliza una base de datos para almacenar los datos de la página web.

@@ -11,3 +11,9 @@
 - Lenguaje: Java
 - Materia: Programación Orientada a Objetos
 - Descripción: Generador de audio que permite crear notas musicales a partir de señales senoidales.
+
+## Dashboard Clima de México
+
+- Lenguaje: Python, HTML, CSS, JavaScript
+- Materia: Bases de Datos
+- Descripción: Dashboard que muestra el clima de diferentes estados de México. Se utiliza una API para obtener los datos del clima y se almacenan en una base de datos. Se implementa un frontend con HTML, CSS y JavaScript para mostrar los datos de forma visual. Se implementa un ETL con Pentaho para extraer los datos de la API y cargarlos en la base de datos.

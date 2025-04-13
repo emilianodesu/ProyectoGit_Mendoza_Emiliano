@@ -7,3 +7,4 @@
 | La princesa Mononoke (もののけ姫) | Japón | 134 min | ![La princesa Mononoke](https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Princess_Mononoke_Japanese_poster.png/220px-Princess_Mononoke_Japanese_poster.png) |
 | Spider-Man: Into the Spider-Verse     | EE.UU.    | 117 min  | ![Spider-Man: Into the Spider-Verse](https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Spider-Man_Into_the_Spider-Verse_poster.png/220px-Spider-Man_Into_the_Spider-Verse_poster.png) |
 | Kubo y las dos cuerdas (Kubo and the Two Strings) | EE.UU. | 101 min | ![Kubo y las dos cuerdas](https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Kubo_and_the_Two_Strings_poster.png/220px-Kubo_and_the_Two_Strings_poster.png) |
+| La tumba de las luciérnagas (火垂るの墓) | Japón  | 89 min | ![La tumba de las luciernagas](https://upload.wikimedia.org/wikipedia/en/a/a5/Grave_of_the_Fireflies_Japanese_poster.jpg) |

@@ -12,4 +12,4 @@
 ---
 #### Comentarios
 1.  Hola soy **Dey**  Todas son muy buenas peliculas, con* La de la tumba de las luciernagas*  casi lloro.😣😅
-
+2.  Hola soy **Gerardo**. Algunas de esas películas me han hecho llorar o me han dejado a punto de llorar. ¡Qué buen gusto tienes!🙌 

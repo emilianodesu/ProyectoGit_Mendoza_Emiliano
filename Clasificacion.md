@@ -17,3 +17,5 @@
 4. Hola soy **Eduardo**. La pelicula de El increíble castillo vagabundo ha sido de las mejores peliculas que he visto sobre anime. La recomiendo ampliamente.
 5. Hola soy **Camila**, no he visto ninguna, pero prometo verlas
 6. **Vale**:igual soy muy fan de estudio ghilbi.Te recomiendo ver susurros  del  corazón es mi fav.
+7. Hola soy **Jair** y la verdad me gustan las pelis de Miyazaki, aunque el diretor tiene un caracter muy especial.
+8. Hola soy **Erick** no he visto las ultimas dos, pero las primeras 3 estan hermosisimas. La banda sonora una obra de arte que todos deberían escuchar alguna vez en sus vidas
